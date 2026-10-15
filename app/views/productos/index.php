@@ -1,5 +1,7 @@
 <h1>Listado Productos</h1>
 
+<a href="/crear/productos">Crear</a>
+
 <?php if (!empty($productos)) {?>
     <table border='2'>
         <tr>

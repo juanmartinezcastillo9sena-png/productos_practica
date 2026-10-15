@@ -8,7 +8,6 @@ $uri = $_SERVER['REQUEST_URI'];
 ?>
 
 <a href="/productos">Listado Productos</a>
-<a href="/crear/productos">Crear</a>
 
 <?php
 //PRODUCTOS
